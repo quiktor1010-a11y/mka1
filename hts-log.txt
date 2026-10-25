@@ -1,0 +1,44 @@
+HTTrack3.50-5 launched on Thu, 22 Oct 2026 23:43:42 at https://vbywatel.github.io/vobywatelm/dowod.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(httrack -O /storage/emulated/0/HTTrack/Websites/mObywatel -iC2 https://vbywatel.github.io/vobywatelm/dowod.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -%k -%P -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l pl,* -u1 -s2 -%s -%u -%f -D -a -K0 -H0 -p3 -N0 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:43:49	Error: 	"Not Found" (404) at link https://vbywatel.github.io/vobywatelm/obywatel_auth (from https://vbywatel.github.io/vobywatelm/dowod.html)
+23:44:33	Error: 	"Not Found" (404) at link https://vbywatel.github.io/vobywatelm/favicon.ico (from https://vbywatel.github.io/vobywatelm/dowod.html)
+23:45:09	Error: 	"Not Found" (404) at link https://vbywatel.github.io/vobywatelm/<link rel= (from https://vbywatel.github.io/vobywatelm/dowod.html)
+23:45:09	Error: 	"Not Found" (404) at link https://vbywatel.github.io/vobywatelm/js/api-client.js (from https://vbywatel.github.io/vobywatelm/dowod.html)
+23:51:49	Error: 	"Not Found" (404) at link https://vbywatel.github.io/cdn-cgi/challenge-platform/scripts/jsd/main.js (from https://vbywatel.github.io/vobywatelm/dowod.html)
+23:51:49	Error: 	"Not Found" (404) at link https://vbywatel.github.io/vobywatelm/[Login] Device not activated → redirecting to index.html (from https://vbywatel.github.io/vobywatelm/index.html)
+23:53:15	Warning: 	Warning: store application/octet-stream without scan: /storage/emulated/0/HTTrack/Websites/mObywatel/vbywatel.github.io/vobywatelm/assets/icons/coi.svg
+23:53:15	Error: 	"Not Found" (404) at link https://vbywatel.github.io/images.js (from https://vbywatel.github.io/vobywatelm/index.html)
+23:53:15	Error: 	"Not Found" (404) at link https://vbywatel.github.io/vobywatelm/activate.html (from https://vbywatel.github.io/vobywatelm/js/pwa-gate.js)
+23:53:15	Error: 	"Not Found" (404) at link https://vbywatel.github.io/vobywatelm/login.html (from https://vbywatel.github.io/vobywatelm/js/pwa-gate.js)
+23:53:15	Error: 	"Not Found" (404) at link https://vbywatel.github.io/vobywatelm/admin.html (from https://vbywatel.github.io/vobywatelm/js/pwa-gate.js)
+23:53:15	Error: 	"Not Found" (404) at link https://vbywatel.github.io/vobywatelm/admin-login.html (from https://vbywatel.github.io/vobywatelm/js/pwa-gate.js)
+23:53:15	Error: 	"Not Found" (404) at link https://vbywatel.github.io/vobywatelm/assets/fonts/roboto_300_latinext.woff2 (from https://vbywatel.github.io/vobywatelm/css/common.css)
+23:53:15	Error: 	"Not Found" (404) at link https://vbywatel.github.io/vobywatelm/assets/fonts/roboto_300_latin.woff2 (from https://vbywatel.github.io/vobywatelm/css/common.css)
+23:53:15	Error: 	"Not Found" (404) at link https://vbywatel.github.io/vobywatelm/assets/fonts/roboto_900_latinext.woff2 (from https://vbywatel.github.io/vobywatelm/css/common.css)
+23:53:15	Error: 	"Not Found" (404) at link https://vbywatel.github.io/vobywatelm/assets/fonts/roboto_900_latin.woff2 (from https://vbywatel.github.io/vobywatelm/css/common.css)
+23:53:15	Error: 	"Not Found" (404) at link https://vbywatel.github.io/vobywatelm/assets/fonts/roboto_light.ttf (from https://vbywatel.github.io/vobywatelm/css/common.css)
+23:53:15	Error: 	"Not Found" (404) at link https://vbywatel.github.io/vobywatelm/assets/fonts/roboto_regular.ttf (from https://vbywatel.github.io/vobywatelm/css/common.css)
+23:53:15	Error: 	"Not Found" (404) at link https://vbywatel.github.io/vobywatelm/assets/fonts/roboto_medium.ttf (from https://vbywatel.github.io/vobywatelm/css/common.css)
+23:53:16	Error: 	"Not Found" (404) at link https://vbywatel.github.io/vobywatelm/assets/fonts/roboto_bold.ttf (from https://vbywatel.github.io/vobywatelm/css/common.css)
+23:53:16	Error: 	"Not Found" (404) at link https://vbywatel.github.io/vobywatelm/assets/fonts/roboto_black.ttf (from https://vbywatel.github.io/vobywatelm/css/common.css)
+23:53:16	Warning: 	Warning: store application/octet-stream without scan: /storage/emulated/0/HTTrack/Websites/mObywatel/vbywatel.github.io/vobywatelm/assets/icons/if006_documents_fill_dark.svg
+23:53:16	Warning: 	Warning: store application/octet-stream without scan: /storage/emulated/0/HTTrack/Websites/mObywatel/vbywatel.github.io/vobywatelm/assets/icons/if007_services_fill_dark.svg
+23:53:16	Warning: 	Warning: store application/octet-stream without scan: /storage/emulated/0/HTTrack/Websites/mObywatel/vbywatel.github.io/vobywatelm/assets/icons/if009_scan_fill_dark.svg
+23:53:16	Warning: 	Warning: store application/octet-stream without scan: /storage/emulated/0/HTTrack/Websites/mObywatel/vbywatel.github.io/vobywatelm/assets/icons/if010_more_fill_dark.svg
+23:53:16	Error: 	"Not Found" (404) at link https://vbywatel.github.io/vobywatelm/mobywatel-v3 (from https://vbywatel.github.io/vobywatelm/js/pages/dowod.js)
+23:53:16	Error: 	"Not Found" (404) at link https://vbywatel.github.io/vobywatelm/profile-images-v1 (from https://vbywatel.github.io/vobywatelm/js/pages/dowod.js)
+23:55:48	Warning: 	Warning: store application/octet-stream without scan: /storage/emulated/0/HTTrack/Websites/mObywatel/vbywatel.github.io/vobywatelm/assets/icons/if006_documents_fill.svg
+23:58:53	Warning: 	Warning: store application/octet-stream without scan: /storage/emulated/0/HTTrack/Websites/mObywatel/vbywatel.github.io/vobywatelm/assets/icons/if009_scan_fill.svg
+00:09:26	Warning: 	Warning: store application/octet-stream without scan: /storage/emulated/0/HTTrack/Websites/mObywatel/vbywatel.github.io/vobywatelm/assets/icons/if007_services_fill.svg
+00:09:26	Warning: 	Warning: store application/octet-stream without scan: /storage/emulated/0/HTTrack/Websites/mObywatel/vbywatel.github.io/vobywatelm/assets/icons/if010_more_fill.svg
+00:09:27	Error: 	"Not Found" (404) at link https://vbywatel.github.io/vobywatelm/css/pages/profiledata.css (from https://vbywatel.github.io/vobywatelm/profiledata.html)
+
+HTTrack Website Copier/3.50-5 mirror complete in 25 minutes 46 seconds : 167 links scanned, 143 files written (3008430 bytes overall), 21 files updated [1895652 bytes received at 1226 bytes/sec], 358459 bytes transferred using HTTP compression in 42 files, ratio 46%, 1.5 requests per connection
+(23 errors, 9 warnings, 0 messages)
+(Some links above the start directory were not mirrored. Pass -B (--can-go-up-and-down) to mirror them.)
